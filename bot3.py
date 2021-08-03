@@ -172,4 +172,4 @@ async def on_command_error(ctx,error):
         await ctx.send(embed = embed)
         raise error
 
-bot.run('ODMzMjc0ODYwMDM3NDcyMjk2.YHv9sA.PFgDp6OM2cQQfoUw8bDph2cp0dQ')
+bot.run('')
