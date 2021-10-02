@@ -3,7 +3,7 @@ from discord.ext import commands
 import datetime, pyowm
 from discord.utils import get
 import random
-
+import json
 import os
 from time import sleep
 import io
